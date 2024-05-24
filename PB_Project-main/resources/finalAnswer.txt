@@ -1,0 +1,73 @@
+DROUGHT RESISTANCE:
+[{'Ascension Number': 'NM_001423173',
+  'Hit_def': 'Oryza sativa Japonica Group NAC domain-containing protein '
+             '71-like (LOC4349963), mRNA',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'AK063399',
+  'Hit_def': 'Oryza sativa Japonica Group cDNA clone:001-114-H12, full insert '
+             'sequence',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'CP132245',
+  'Hit_def': 'Oryza sativa Japonica Group cultivar Nipponbare isolate AGIS-1.0 '
+             'chromosome 11',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'AP014967',
+  'Hit_def': 'Oryza sativa Japonica Group DNA, chromosome 11, cultivar: '
+             'Nipponbare, complete sequence',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'AC134047',
+  'Hit_def': 'Oryza sativa Japonica Group cultivar Nipponbare chromosome 11 '
+             'clone OSJNBa0052O08 map MAP_LOC, complete sequence',
+  'Hsp_evalue': 0.0}]
+________________________________________________________________________________________________________________________________________________________________________________________________________
+SALINITY TOLERANCE
+[{'Ascension Number': 'KM083065',
+  'Hit_def': 'Oryza sativa Indica Group vacuolar sodium hydrogen antiporter '
+             '(NHX1) mRNA, complete cds',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'XM_015789089',
+  'Hit_def': 'PREDICTED: Oryza sativa Japonica Group sodium/hydrogen exchanger '
+             '2 (LOC4344217), mRNA',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'AK064004',
+  'Hit_def': 'Oryza sativa Japonica Group cDNA clone:001-124-G02, full insert '
+             'sequence',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'AK099332',
+  'Hit_def': 'Oryza sativa Japonica Group cDNA clone:J033022J03, full insert '
+             'sequence',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'AY324877',
+  'Hit_def': 'Oryza sativa (japonica cultivar-group) putative Na/H antiporter '
+             'mRNA, complete cds',
+  'Hsp_evalue': 0.0}]
+________________________________________________________________________________________________________________________________________________________________________________________________________
+STARCH QUALITY
+[{'Ascension Number': 'MH881005',
+  'Hit_def': 'Oryza sativa voucher IC0394476 waxy (wx) gene, complete cds',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'MH881002',
+  'Hit_def': 'Oryza sativa voucher IC0381334 waxy (wx) gene, complete cds',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'GQ151053',
+  'Hit_def': 'Oryza sativa Japonica Group cultivar Chunjiang06 granule-bound '
+             'starch synthase I (Wx) gene, complete cds '
+             '>gi|262345810|gb|GQ151054.1| Oryza sativa Japonica Group '
+             'cultivar Wuyunjing7 granule-bound starch synthase I (Wx) gene, '
+             'complete cds',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'DQ280632',
+  'Hit_def': 'Oryza sativa (japonica cultivar-group) isolate C09 waxy (wx) '
+             'gene, complete cds >gi|83375795|gb|DQ280637.1| Oryza sativa '
+             '(japonica cultivar-group) isolate D02 waxy (wx) gene, complete '
+             'cds >gi|83375804|gb|DQ280642.1| Oryza sativa (japonica '
+             'cultivar-group) isolate D07 waxy (wx) gene, complete cds '
+             '>gi|83375810|gb|DQ280645.1| Oryza sativa (japonica '
+             'cultivar-group) isolate D10 waxy (wx) gene, complete cds '
+             '>gi|83375812|gb|DQ280646.1| Oryza sativa (japonica '
+             'cultivar-group) isolate D11 waxy (wx) gene, complete cds',
+  'Hsp_evalue': 0.0},
+ {'Ascension Number': 'MH881006',
+  'Hit_def': 'Oryza sativa voucher IC0466911 waxy (wx) gene, complete cds',
+  'Hsp_evalue': 0.0}]
+________________________________________________________________________________________________________________________________________________________________________________________________________
